@@ -3,7 +3,8 @@
 I am 23, currently working as mobile developer (Android & iOS).
 Studying Software Engineering to Mobile Devices.
 
-Find me:
+Find me: 
+
 [![](https://camo.githubusercontent.com/dd86c49da13083be104023b52ee6e54e550d0dd8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/bruno-todeschini/) [![](https://camo.githubusercontent.com/1f075ea5d5723a13b830a377c4d7dec58007adb9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d7265643f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465)](mailto:obruno1997@gmail.com)
 
 
