@@ -14,9 +14,5 @@ Find me:
 
 Some technologies that you will find here and I probably like:
 
-* [Kotlin] - HTML enhanced for web apps!
-* [JavaScript] - awesome web-based text editor
-* [Node] - Markdown parser done right. Fast and easy to extend.
-* [Swift] - great UI boilerplate for modern web apps
-* [React-Native] - evented I/O for the backend
-* [React] - fast node.js network app framework [@tjholowaychuk]
+* [Kotlin] 
+* [Swift]
