@@ -1,6 +1,6 @@
 # Bruno Todeschini - Software Mobile Developer
 
-I am 23, currently working as mobile developer (Android & iOS).
+I am 24, currently working as Android Engineer.
 Studying Software Engineering to Mobile Devices.
 
 Find me: 
